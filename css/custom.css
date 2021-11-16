@@ -2,3 +2,7 @@ img[src$='#center']{
     display: block;
     margin: 0.7rem auto; 
 }
+
+div{
+    color:red;
+}
